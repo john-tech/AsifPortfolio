@@ -10,10 +10,10 @@ export const Bio = {
   github: "https://github.com/asifaslamibu",
   resume:
     "https://docs.google.com/document/d/1HqkDGK0EAGxwtH5z-Dfi1uTCXac7wnK8/edit?usp=sharing&ouid=114465638914037575878&rtpof=true&sd=true",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "https://www.linkedin.com/in/asifaslamofficial/",
+  twitter: "https://twitter.com/Asif1331909",
+  insta: "#",
+  facebook: "#",
 };
 
 export const skills = [
@@ -373,7 +373,7 @@ export const projects = [
     webapp: "https://podstream.netlify.app/",
     member: [
       {
-        name: "Rishav Chanda",
+        name: "Muhammad Asif",
         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
         github: "https://github.com/rishavchanda/",
@@ -420,7 +420,7 @@ export const projects = [
     webapp: "https://brain-tumor.netlify.app/",
     member: [
       {
-        name: "Rishav Chanda",
+        name: "Muhammad Asif",
         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
         github: "https://github.com/rishavchanda/",
