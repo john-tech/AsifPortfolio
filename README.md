@@ -1,10 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
  
-## Some Images:
-
-
-
+ 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -35,7 +32,6 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
 2. Navigate to the project directory: `cd rishav-chanda-portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
